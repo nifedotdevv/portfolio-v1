@@ -1,7 +1,7 @@
 export const SECTIONS = ['hero', 'about', 'skills', 'projects', 'contact'] as const;
 
 export const SOCIAL_LINKS = {
-  github: 'https://github.com/olanihundaniel0-star',
+  github: 'https://github.com/nifedotdevv',
   linkedin: 'https://www.linkedin.com/in/daniel-olanihun-663030399/',
   twitter: 'https://x.com/nifedoesnotcode',
 } as const;

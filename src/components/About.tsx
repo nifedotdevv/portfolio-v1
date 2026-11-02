@@ -16,15 +16,6 @@ export default function About() {
             systems and interfaces with a feel to them, currently a 300-level
             Computer Science undergraduate at the University of Lagos, Nigeria.
           </p>
-          <a
-            href="/Olanihun-Daniel-Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="about-cta"
-            style={{ textDecoration: 'none', color: 'inherit', cursor: 'pointer' }}
-          >
-            Download CV <span>↗</span>
-          </a>
         </div>
         <div className="about-right reveal reveal-d2">
           <div className="stat-card-row">

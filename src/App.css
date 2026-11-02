@@ -560,17 +560,6 @@ section {
   font-weight: 400;
   max-width: 440px; margin-bottom: 36px;
 }
-.about-cta {
-  display: inline-flex; align-items: center; gap: 10px;
-  font-size: 9px; letter-spacing: 3px;
-  color: #fff;
-  text-transform: uppercase; font-weight: 700;
-  border-bottom: 1px solid rgba(255,255,255,0.3);
-  padding-bottom: 4px;
-  text-decoration: none; cursor: pointer;
-  transition: border-color 0.2s;
-}
-.about-cta:hover { border-color: #fff; }
 
 .about-right { display: flex; flex-direction: column; gap: 2px; }
 .stat-card {
